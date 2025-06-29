@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Afrin Mariam 👋
 
-<!--
-**Afrin53/Afrin53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Student | Computer Science and Business Systems**  
+🌱 Passionate about Full Stack Development  
+📫 [LinkedIn](https://www.linkedin.com/in/afrin-mariam-26a040259) • [Email](mailto:afriimariam.75@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I'm currently pursuing my B.Tech in Computer Science and Business Systems. I love building things on the web and diving deep into the world of technology.
+
+- 🔭 **Interests:** Full Stack Development | Web Applications | Problem Solving  
+- 💡 **Tech Stack:**  
+  - Frontend: HTML, CSS, JavaScript, React.js  
+  - Backend: Node.js, Express.js  
+  - Database: MongoDB
+
+- 🌱 **Currently Learning:** Advanced React and Cloud Technologies
+
+---
+
+## 💼 Experience
+
+- **Web Development Intern**  
+  *CodeBind Technology*  
+  - Worked on real-world web development projects, enhancing both front-end and back-end skills.
+
+---
+
+## 🚀 Featured Project
+
+### Price Tracking Website
+A full stack web application that tracks product prices using web scraping and notifies users about price changes.
+
+> **Tech Used:** Node.js, Express.js, MongoDB, Web Scraping, JavaScript
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/afrin-mariam-26a040259)
+- [Email](mailto:afriimariam.75@gmail.com)
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”*  
+— Cory House
+
